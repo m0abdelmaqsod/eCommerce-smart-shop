@@ -4,4 +4,4 @@
                             
                            
 ## Project techniques:
-`React.js` | `ReduxToolkit` | `sass`
+`React.js` | `ReduxToolkit` | `sass` | `react-icons` | `swiper` | `react-toastify` | `axios`
