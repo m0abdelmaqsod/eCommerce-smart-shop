@@ -1,20 +1,7 @@
-# 
+# E-Commerce-smart-shop
 
-
-
-## 
-
-
-
-### 
-###
-### 
-### 
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-## 
-###
-###
-###
-###
-### `npm run build` fails to minify
+**The project is an e-commerce platform aimed at selling products online. The project includes a set of features and functions such as displaying products, shopping cart, purchase process, search, filtering, etc. that facilitate the electronic shopping experience for users.**
+                            
+                           
+## Project techniques:
+** `React.js` | `ReduxToolkit` | `sass` **
